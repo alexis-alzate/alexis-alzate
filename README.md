@@ -39,4 +39,5 @@ Mi pasión por la programación se centra en la creación de interfaces de usuar
 Cuando no estoy inmerso en el código, mi pasión se desvía hacia el mundo de la música. Disfruto creando **beats de música urbana**, explorando nuevos sonidos y perfeccionando mi técnica. Además, dedico tiempo a tocar un **instrumento musical**, lo que me permite expresar mi creatividad de otra manera. También valoro mucho mis momentos de lectura de la **Biblia**, donde encuentro inspiración y reflexión. Siempre estoy **aprendiendo cosas nuevas sobre producción musical y teoría**, expandiendo mis horizontes más allá del desarrollo.
 
 ✉️ Email: alzatezaeta@gmail.com
-💼 LinkedIn: linkedin.com/in/jonathan-mb-developer
+
+💼 LinkedIn: linkedin.https://www.linkedin.com/in/alexis-alzate
