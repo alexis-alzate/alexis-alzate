@@ -1,3 +1,4 @@
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" alt="github icon"/>
 <h1 align="center">¡Hola! 👋 Soy Alexis Alzate</h1>
 <p align="center">Un desarrollador de software con la energía para crear soluciones tecnológicas innovadoras.</p>
 <p align="center">
