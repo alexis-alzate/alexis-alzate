@@ -1,4 +1,4 @@
-![Banner personal](https://i.imgur.com/YOUR_BANNER.png)
+![Banner](./file_000000000c0c61fab89c415adbfe6d04.png)
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" />
