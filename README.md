@@ -1,4 +1,6 @@
-![Banner](./file_000000000c0c61fab89c415adbfe6d04.png)
+<p align="center">
+  <img src="./file_000000000c0c61fab89c415adbfe6d04.png" style="width: 100%; max-width: 800px; height: auto; aspect-ratio: 5/1; object-fit: cover; border-radius: 12px;" />
+</p>
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" />
