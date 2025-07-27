@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  🤖 Alexis Alzate
+👨🏾‍💻 Alexis Alzate
   <br/>
   <sub>Creando desde el búnker tecnológico</sub>
 </h1>
