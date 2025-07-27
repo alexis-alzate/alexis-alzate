@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alexis-alzate/alexis-alzate/raw/main/Gemini_Generated_Image_6j8rb36j8rb36j8r.png" alt="Banner de Alexis Alzate" width="100%" height="200px" style="border-radius: 10px;" />
+  <img src="./anima.gif" alt="Animación de Alexis Alzate" width="100%" height="250px" style="border-radius: 10px;" />
 </p>
 <h1 align="center">¡Hola! 👋 Soy Alexis Alzate</h1>
 <p align="center"><strong>Desarrollador de software con la energía para crear soluciones tecnológicas innovadoras.</strong></p>
