@@ -46,6 +46,15 @@
 </div>
 
 ---
+<div align="center">
+  
+  ### 💻 Herramientas de Desarrollo
+  
+  <img src="https://img.shields.io/badge/LINUX-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal"/>
+  
+</div>
 
 ## 🏠 Desde el Búnker
 
