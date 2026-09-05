@@ -71,16 +71,16 @@ Incluye monitoreo, cargue de rutas, bitácoras, historial operativo y dashboard.
 
 ### 🎧 LUJOURBAN
 
-Proyecto donde se cruzan dos partes importantes de mi vida: **software + música**.
+Tienda de beats construida **desde cero en Next.js** — sin depender de BeatStars ni pagar comisión por venta, con propiedad total de la plataforma.
 
-Plataforma web enfocada en productores, artistas y experiencias digitales alrededor de la música.
+- Backend en migración a **ASP.NET Core (.NET)**, con **Supabase/PostgreSQL** como base de datos.
+- Pagos integrados con **Mercado Pago Checkout Pro** (REST directo + webhooks).
+- Función SQL atómica que evita la doble venta de licencias exclusivas.
+- Notificaciones automáticas a productores en cada venta, vía **Resend**.
 
 <div align="left">
-  <a href="https://lujourbano.com">
+  <a href="https://lujourban.com">
     <img src="https://img.shields.io/badge/Visitar-LUJOURBAN-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/alexis-alzate/Lujourbano">
-    <img src="https://img.shields.io/badge/Repositorio-LUJOURBAN-181717?style=for-the-badge&logo=github" />
   </a>
 </div>
 
